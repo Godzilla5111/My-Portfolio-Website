@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  background-color: #21D4FD;
+  background-image: linear-gradient(240deg, #21D4FD 0%, #B721FF 100%);
+}
+
+td {
+  font-size: 1.25rem;
+  font-weight: lighter;
+  font-family: italic;
+}
+
+.top-container {
+  padding-top: 1.5%;
+  padding-bottom: 2.5%;
+}
+
+.Navbar {
+  position: relative;
+  margin-left: 65%;
+}
+
+a {
+  text-decoration: none;
+  padding: 1.5%;
+}
+
+a:hover {
+  color: #fff;
+}
+
+.item {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.profile_photo {
+  float: left;
+  margin-right: 15px;
+  height: 10%;
+  width: 10%;
+  padding-bottom: 20px;
+}
+
+.middle-container {
+  padding-top: 5%;
+  padding-bottom: 7%;
+}
+
+.name {
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+h1 {
+  color: purple;
+  margin: auto;
+  font-family: cursive;
+}
+
+p {
+  line-height: 1.5;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-left: 7.5px;
+}
+
+.bottom-container {
+  padding-top: 1.5%;
+  padding-bottom: 8%;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+footer {
+  color: black;
+}
+
+i {
+  color: purple;
+  height: 5%;
+  width: 5%;
+}
+
+i:hover {
+  color: #fff;
+}
+
+li {
+  line-height: 1.5;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 1.5rem;
+  font-weight: bold
+}
+
+.achievements {
+  margin-left: 10px;
+}
+
+.award-img {
+  height: 15%;
+  width: 15%;
+  border-radius: 100%;
+}
+
+.contacts-img {
+  height: 10%;
+  width: 20%;
+  margin-bottom: 30px;
+  border-radius: 100%;
+}
+
+.hobbies-img {
+  height: 10%;
+  width: 20%;
+  border-radius: 100%;
+}
