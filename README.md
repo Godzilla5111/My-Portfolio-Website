@@ -6,4 +6,4 @@ Contains 4 pages-
 3>Achievements - About my achievements(till date).
 4>Contact me-Only the email icon works.
 
-Dunno why the favicon is not showing up🤨
+
